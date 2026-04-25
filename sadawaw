@@ -1,6 +1,6 @@
 -- ============================================================
 -- PRIME DUELS - MERGED (Galaxy/Hop do Flash Duels + Speed Billboard)
--- discord.gg/elys1um
+-- discord.gg/
 -- ============================================================
  
 repeat task.wait() until game:IsLoaded()
